@@ -19,4 +19,4 @@ function sayHiToGrandma(string) {
   return (("YES INDEED!"))
 }
 function sayHiToGrandma()
-  if ("I love you, Grandma.")
+  if (("I love you, Grandma."))
