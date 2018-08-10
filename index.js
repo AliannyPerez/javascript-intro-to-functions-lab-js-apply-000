@@ -19,8 +19,12 @@ function sayHiToGrandma(string) {
   
 } else if (string === "I love you, Grandma.") {
     return (("I love you, too.")) 
+  } else {
+    console.log("I love apples.")
   }
 }
+
+sayHiToGrandma()
 // function sayHiToGrandma(){
 //   if (("I love you, Grandma."))
 // 
